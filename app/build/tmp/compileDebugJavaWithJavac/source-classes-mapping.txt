@@ -1,0 +1,10 @@
+com/alivecor/alivecorassignment/DataBindingTriggerClass.java
+ com.alivecor.alivecorassignment.DataBindingTriggerClass
+com/alivecor/alivecorassignment/BuildConfig.java
+ com.alivecor.alivecorassignment.BuildConfig
+com/alivecor/alivecorassignment/databinding/FragmentMainBinding.java
+ com.alivecor.alivecorassignment.databinding.FragmentMainBinding
+com/alivecor/alivecorassignment/databinding/ActivityMainBinding.java
+ com.alivecor.alivecorassignment.databinding.ActivityMainBinding
+com/alivecor/alivecorassignment/databinding/FragmentDetailBinding.java
+ com.alivecor.alivecorassignment.databinding.FragmentDetailBinding

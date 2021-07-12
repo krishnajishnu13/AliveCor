@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\al3558\\AndroidStudioProjects\\AliveCorAssignment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\al3558\\AndroidStudioProjects\\AliveCorAssignment\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\al3558\\AndroidStudioProjects\\AliveCorAssignment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_detail.xml",
+        "source": "C:\\Users\\al3558\\AndroidStudioProjects\\AliveCorAssignment\\app\\src\\main\\res\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\al3558\\AndroidStudioProjects\\AliveCorAssignment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\al3558\\AndroidStudioProjects\\AliveCorAssignment\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
